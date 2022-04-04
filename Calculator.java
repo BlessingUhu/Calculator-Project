@@ -7,7 +7,7 @@ public class Calculator {
 	
 	// This program multiplies, divides, add and subtracts user inputs for the standard calculator.
 	
-	// The scientific calculator does the same job as the standard calculator but also performs trigonometric calculations such as cosine sin and tan. 
+	// The scientific calculator does the same job as the standard calculator but also performs trigonometric calculations such as cosine sin, tan, square root, absolute value, degrees to radians and log. 
 	
 	// user inputs for the standard calculator can be more than two inputs. For example, the program will calculate 2 + 2 + 6 + 8, etc.
 	
