@@ -41,6 +41,7 @@ public class Calculator {
 		double squareRoot = 0;
 		double degrees = 0;
 		double absoluteValue = 0;
+		double log = 0;
 			
 		//numbers to be added
 		double user = 0.0;
